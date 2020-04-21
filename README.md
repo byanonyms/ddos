@@ -1,2 +1,3 @@
-1. How to use Hammer [`Watch it`](http://www.youtube.com/watch?v=HVbRUhX2EPo) 
-2. Fork it...
+ 1.python3 hammer.py -s (site ip'si)
+ 2.Bu kadar.
+ 
